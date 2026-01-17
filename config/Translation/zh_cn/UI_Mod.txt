@@ -1,0 +1,5 @@
+﻿# LevelScaling-存档数据统计
+No LevelScaling data found :(=未找到 LevelScaling 数据 :(
+LevelScaling data corrupted :(=关卡 LevelScaling 数据损坏 :(
+<sprite name\=check> EXTRACTIONS\n<sprite name\=moneyeyes> VALUABLES\n<sprite name\=weapon_sword> KILLS\n<sprite name\=player> DEATHS=<sprite name\=check> 提取次数\n<sprite name\=moneyeyes> 贵重物品\n<sprite name\=weapon_sword> 击杀数量\n<sprite name\=player> 死亡次数
+<sprite name\=surplus> BIGGEST BAG\n<sprite name\=burnmoney> BROKEN\n<sprite name\=road> EXPLORED\n<sprite name\=!> CHALLENGES=<sprite name\=surplus> 最大钱袋\n<sprite name\=burnmoney> 破坏金额\n<sprite name\=road> 完成探索\n<sprite name\=!> 挑战关卡

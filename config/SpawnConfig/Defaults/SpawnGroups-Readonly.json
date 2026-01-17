@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "Enemy - Head",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Head"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Robe",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Robe"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Hunter",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Hunter"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Runner",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Runner"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Beamer",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Beamer"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Slow Walker",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Slow Walker"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Shadow",
+    "levelRangeCondition": true,
+    "minLevel": 3,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Shadow"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Bomb Thrower",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Bomb Thrower"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 100.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Animals",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Animal",
+      "Enemy - Animal",
+      "Enemy - Animal"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Bowties",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Bowtie",
+      "Enemy - Bowtie",
+      "Enemy - Bowtie"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Floaters",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Floater",
+      "Enemy - Floater",
+      "Enemy - Floater"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 2 Hidden",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Hidden",
+      "Enemy - Hidden"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Tumblers",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Tumbler",
+      "Enemy - Tumbler",
+      "Enemy - Tumbler"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Upscreams",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Upscream",
+      "Enemy - Upscream",
+      "Enemy - Upscream"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Valuable Throwers",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Valuable Thrower",
+      "Enemy - Valuable Thrower",
+      "Enemy - Valuable Thrower"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Ceiling Eyes",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Ducks",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Duck",
+      "Enemy - Duck",
+      "Enemy - Duck",
+      "Enemy - Duck"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Slow Mouths",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Thin Men",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Thin Man",
+      "Enemy - Thin Man",
+      "Enemy - Thin Man",
+      "Enemy - Thin Man"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 6 Bangs",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 10 Gnomes",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 2 Spinny",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Spinny",
+      "Enemy - Spinny"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 2 Heart Huggers",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Heart Hugger",
+      "Enemy - Heart Hugger"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 5 Ticks",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Tick",
+      "Enemy - Tick",
+      "Enemy - Tick",
+      "Enemy - Tick",
+      "Enemy - Tick"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Birthday Boys",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Birthday boy",
+      "Enemy - Birthday boy",
+      "Enemy - Birthday boy"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Elsas",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Elsa",
+      "Enemy - Elsa",
+      "Enemy - Elsa"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Head Grabbers",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Head Grabber",
+      "Enemy - Head Grabber",
+      "Enemy - Head Grabber"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Ooglies",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Oogly",
+      "Enemy - Oogly",
+      "Enemy - Oogly"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Tricycles",
+    "levelRangeCondition": true,
+    "minLevel": 1,
+    "maxLevel": 3,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Tricycle",
+      "Enemy - Tricycle",
+      "Enemy - Tricycle"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 5.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Valuable Thrower",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Valuable Thrower"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Animal",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Animal"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Upscream",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Upscream"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Hidden",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Hidden"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Tumbler",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Tumbler"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Bowtie",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Bowtie"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Floater",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Floater"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Bang",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Spinny",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Spinny"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Heart Hugger",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Heart Hugger"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Head Grabber",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Head Grabber"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Oogly",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Oogly"
+    ],
+    "difficulty1Weight": 0.0,
+    "difficulty2Weight": 100.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Ceiling Eye",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Ceiling Eye"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Thin Man",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Thin Man"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Gnome",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Duck",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Duck"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Slow Mouth",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Slow Mouth"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Tick",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Tick"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Birthday Boy",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Birthday boy"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Elsa",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Elsa"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Tricycle",
+    "levelRangeCondition": false,
+    "minLevel": 0,
+    "maxLevel": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Tricycle"
+    ],
+    "difficulty1Weight": 100.0,
+    "difficulty2Weight": 0.0,
+    "difficulty3Weight": 0.0,
+    "levelWeightMultipliers": {"Arctic": 1.0, "Manor": 1.0, "Museum": 1.0, "Wizard": 1.0, "FNAF": 1.0, "Bunker": 1.0, "BP": 1.0, "Stronghold": 1.0, "Garden": 1.0, "Military": 1.0, "DampMine": 1.0, "TheFacility": 1.0, "TSP": 1.0, "PeachCastle": 1.0, "Minecraft Village": 1.0},
+    "soloGroup": false,
+    "allowDuplicates": true,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  }
+]

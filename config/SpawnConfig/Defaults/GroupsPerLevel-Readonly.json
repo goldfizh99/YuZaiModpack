@@ -1,0 +1,38 @@
+[
+  {
+    "level": 1,
+    "possibleGroupCounts": [
+      {"counts": [1,0,1], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 3,
+    "possibleGroupCounts": [
+      {"counts": [1,1,1], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 6,
+    "possibleGroupCounts": [
+      {"counts": [2,2,2], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 9,
+    "possibleGroupCounts": [
+      {"counts": [2,3,2], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 10,
+    "possibleGroupCounts": [
+      {"counts": [2,3,3], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 20,
+    "possibleGroupCounts": [
+      {"counts": [3,4,4], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 0}
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+Animal=变异蟑螂
+Robe=长袍怪人
+Gnome=侏儒
+Apex Predator=顶级掠食者
+Banger=自爆骷髅
+Chef=青蛙厨师
+Headman=酋长
+Huntsman=猎人
+Shadow Child=暗影之子
+Rugrat=熊孩子
+Reaper=收割者
+Reaper Runner=追击收割者
+Clown=激光小丑
+Mentalist=念力师
+Spewer=呕吐怪
+Bowtie=尖叫大白
+Peeper=窥视者
+Peeper Ceiling Eye=天花板窥视者
+Trudge=大锤恶魔
+Hidden=隐身怪
+Upscream=尖叫者
+Duck=小黄鸭
+Soldier=士兵
+Soldier Ghost=幽灵士兵
+Gnomes=地精
+
+# Mod
+Gusher=喷酸虫
+Roaster=喷火虫
+Voodoo=巫毒娃娃
+Lost droid=迷失的机器人
+Lost Droid=迷失的机器人
+Droid=机器人
+Destroyer=毁灭者
+Rolling Giant=滚动巨人
+Lost Destroyer=迷失的毁灭者
+Carnivore=肉食者
+Rugrats=淘气小兵
+
+# 0.3.0 新增
+Elsa=小狗艾尔莎
+Loom=织影者
+Bella=自行车贝拉
+Cleanup Crew=清道夫
+Birthday Boy=生日男孩
+Tick=蜱虫
+Oogly=乌格里掳夫
+Heart Hugger=拥心荚
+Headgrab=颅冠者
+Gambit=孤注一掷

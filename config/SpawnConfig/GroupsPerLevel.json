@@ -1,0 +1,68 @@
+[
+  {
+    "level": 1,
+    "possibleGroupCounts": [
+      {"counts": [1,0,1], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [1,1,1], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [1,2,1], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [2,1,2], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [2,2,2], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [2,3,2], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 3,
+    "possibleGroupCounts": [
+      {"counts": [1,1,1], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [2,1,2], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [2,2,2], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [3,2,3], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [4,2,4], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [4,4,4], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 6,
+    "possibleGroupCounts": [
+      {"counts": [2,2,2], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [3,2,3], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [4,3,4], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [5,4,5], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [6,5,6], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [7,4,7], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 9,
+    "possibleGroupCounts": [
+      {"counts": [2,3,2], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [3,3,3], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [4,4,4], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [5,4,5], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [6,5,6], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [7,4,7], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 10,
+    "possibleGroupCounts": [
+      {"counts": [2,3,3], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [3,4,4], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [5,5,5], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [6,6,6], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [7,8,7], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [8,10,8], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  },
+  {
+    "level": 20,
+    "possibleGroupCounts": [
+      {"counts": [3,4,4], "weight": 1, "minPlayerCount": 1, "maxPlayerCount": 1},
+      {"counts": [4,5,5], "weight": 1, "minPlayerCount": 2, "maxPlayerCount": 2},
+      {"counts": [6,6,6], "weight": 1, "minPlayerCount": 3, "maxPlayerCount": 3},
+      {"counts": [8,7,8], "weight": 1, "minPlayerCount": 4, "maxPlayerCount": 4},
+      {"counts": [9,8,9], "weight": 1, "minPlayerCount": 5, "maxPlayerCount": 5},
+      {"counts": [10,10,10], "weight": 1, "minPlayerCount": 6, "maxPlayerCount": 0}
+    ]
+  }
+]
