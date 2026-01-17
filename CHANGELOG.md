@@ -1,4 +1,5 @@
-## v1.0.3
+## v1.1.0
+- Added **Enemy_And_Valuable_Spawn_Manager** Mod to remove minecraft items from shop
 - Updated `manifest.json` dependency `YMC_MHZ-MoreHead-1.4.3`
 - Reversed `manifest.json` dependency list so that it matches the table order in `README.md`
 
