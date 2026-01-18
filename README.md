@@ -58,18 +58,18 @@ These are custom map mods. Do not vote for them if you are playing with vanilla 
 
 这些是自定义地图模组。如果你正在和原版玩家或没有安装自定义地图的玩家一起玩，请不要投这些地图。这里显示的名称都来自 **地图投票** 模组列表。
 
-- [Bank](https://thunderstore.io/c/repo/p/Nikki/APEXBanking/)
-- [FNAF](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
-- [Bunker](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
-- [MTHolly](https://thunderstore.io/c/repo/p/Arc059/BluePrince/)
-- [Stronghold](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
-- [Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
-- [Military](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/)
-- [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/)
-- [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/)
-- [TSP](https://thunderstore.io/c/repo/p/John_Epic_Team/The_Stanley_Parable_Ultra_Deluxe_Level/)
-- [PeachCastle](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/)
-- [MinecraftVillage](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
+- [Bank 银行](https://thunderstore.io/c/repo/p/Nikki/APEXBanking/)
+- [FNAF 玩具熊的五夜后宫](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
+- [Bunker 地堡](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
+- [MTHolly 蓝途王子：霍利山庄](https://thunderstore.io/c/repo/p/Arc059/BluePrince/)
+- [Stronghold 我的世界：要塞](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
+- [Garden 花园](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
+- [Military 军事基地](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/)
+- [DampMine 潮湿矿井](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/)
+- [TheFacility 研究所](https://thunderstore.io/c/repo/p/grey5525/TheFacility/)
+- [TSP 史丹利寓言：超豪华版](https://thunderstore.io/c/repo/p/John_Epic_Team/The_Stanley_Parable_Ultra_Deluxe_Level/)
+- [PeachCastle 碧姬公主城堡](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/)
+- [MinecraftVillage 我的世界：村庄](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
 
 ## Custom Configurations 自定义配置
 
