@@ -1,3 +1,8 @@
+## v1.2.2
+
+- Updated `manifest.json` description
+- Updated `manifest.json` dependency `Maygik-MoreHeadUtilities-1.0.9`
+
 ## v1.2.1
 
 - Updated `README.md` missing map translations
