@@ -1,3 +1,8 @@
+## v1.2.3
+
+- Updated `README.md` about `Spawn Config`
+- Updated `README.md` ducks... 🐤
+
 ## v1.2.2
 
 - Updated `manifest.json` description

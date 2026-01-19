@@ -1,8 +1,10 @@
-# 鱼崽 Modpack 🦆
+# YuZai Modpack 鱼崽的模组包
 
 I got bored of vanilla REPO. So configured the enemy spawn rates (such as the duck) to make it more interesting. Also included more shops items to balance the difficulty. Remember to disable the Chinese translation mod if you prefer english. Enjoy!
 
 我玩腻了原版 REPO，所以调整了敌人刷新率（例如鸭子），让游戏更有趣。也加入了更多商店物品来平衡难度。玩得开心！
+
+🐤🔫🚫
 
 ## Features 特色
 
@@ -71,11 +73,15 @@ These are custom map mods. Do not vote for them if you are playing with vanilla 
 - [PeachCastle 碧姬公主城堡](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/)
 - [MinecraftVillage 我的世界：村庄](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
 
+🐤🔫🚫
+
 ## Custom Configurations 自定义配置
 
-To enable Vanilla spawn rates (normal spawn rates), disable the **Spawn Config** Mod. The spawn rates increase as more players join. To balance this, **More Shop Items** Mod have been configured to spawn more weapons. The truck has an item spawn limit so if you purchase too many items it will be queued in the "void". To retrieve these items, use the **Trash Box** Mod to recycle unwanted items and the items in queue will appear next round.
+To enable Vanilla spawn rates (normal spawn rates), disable the **[Spawn Config](https://thunderstore.io/c/repo/p/Index154/SpawnConfig/)** Mod. The spawn rates increase as more players join. To balance this, **[More Shop Items](https://thunderstore.io/c/repo/p/Jettcodey/MoreShopItems_Updated/)** Mod have been configured to spawn more weapons. The truck has an item spawn limit so if you purchase too many items it will be queued in the "void". To retrieve these items, use the **[Trash Box](https://thunderstore.io/c/repo/p/XiaohaiMod/TrashBox/)** Mod to recycle unwanted items and the items in queue will appear next round. For more information on how to configure the enemy spawn rates, please check out [Spawn Config's Wiki](https://github.com/Index154/REPO_SpawnConfig/wiki).
 
-要启用原版的刷怪率（正常刷怪率），请禁用 **刷怪配置** 模组。随着玩家人数增加，刷怪率也会提高。为了平衡难度，**更多商店物品** 模组已被设置为刷出更多武器。卡车有物品数量上限，所以如果你购买太多物品，它们会被排在“虚空”中。如果要取回这些物品，请使用 **垃圾桶** 模组回收不需要的物品，队列中的物品会在下一轮出现。
+要启用原版的刷怪率（正常刷怪率），请关闭 **[刷怪配置](https://thunderstore.io/c/repo/p/Index154/SpawnConfig/)** 模组。随着玩家人数增加，刷怪率也会提高。为了平衡难度，**[更多商店物品](https://thunderstore.io/c/repo/p/Jettcodey/MoreShopItems_Updated/)** 模组已被设置刷出更多武器。卡车有物品数量上限，所以如果你购买太多物品，它们会被排在“虚空”中。如果要取回这些物品，请使用 **[垃圾桶](https://thunderstore.io/c/repo/p/XiaohaiMod/TrashBox/)** 模组回收不需要的物品，队列中的物品会在下一轮出现。如需了解如何调整敌人刷怪率，请查看 [刷怪配置维基](https://github.com/Index154/REPO_SpawnConfig/wiki)。
+
+🐤🔫🚫
 
 ## FAQ 常见问题
 
@@ -103,11 +109,13 @@ Yes, I will add new maps whenever I get the chance to. The maps included have mi
 
 我会不断的加自定义地图。当前包含的地图都是没有bug的（或者不影响游戏）。有些地图会出现推车掉到地板下坠入虚空的情况，也有些地图的贵重物品会卡在地图里（有些地图就是很敷衍，抱歉无冒犯）。如果你想要玩某个特定地图，请自行手动添加即可。
 
-## Credits 致谢
+🐤🔫🚫
 
-Thanks to all friends that helped with this modpack:
-
-感谢所有帮助完成此模组包的朋友们：
+## Acknowledgements 致谢
 
 - xinn
 - 木木
+
+> *The duck is also known as the **APEX PREDATOR**. They're cute so please don't murder them (or touch them).*
+>
+> *鸭子也被称为 **顶级掠食者**。它们很可爱，所以请不要伤害它们（也不要触碰它们）。*
