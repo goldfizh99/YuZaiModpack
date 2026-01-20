@@ -85,6 +85,14 @@ To enable Vanilla spawn rates (normal spawn rates), disable the **[Spawn Config]
 
 ## FAQ 常见问题
 
+### The download is slow
+
+This is due to the large assets from custom map mods. Downloading may take a while, depending on your internet speed and connection quality.
+
+### The download keeps failing
+
+This usually happens due to firewall (e.g., internet restrictions in China) or bad internet.
+
 ### Why only custom maps but no custom enemies/valuables/weapons?
 
 You can't play with vanilla players. Custom maps can be controlled with MapVote so it's still possible to play with non-modded players.
@@ -96,6 +104,14 @@ Only players with this mod can see and use the extraction point button. So if yo
 ### Can you include more custom maps?
 
 Yes, I will add new maps whenever I get the chance to. The maps included have minimal to zero bugs. Some maps have carts falling through the floor into the abyss, while others have valuables spawning stuck in the map (Some are just bad maps sorry no offense). If you want a specific map which is not included here, just add it manually.
+
+### 下载速度慢
+
+这是因为自定义地图模组的资源文件较大。下载可能需要一些时间，具体多久取决于你的网速和网络稳定性。
+
+### 下载总是失败
+
+这通常是由于防火墙（例如中国的网络限制）或网络不稳定造成的。
 
 ### 为什么只有自定义地图，而没有自定义敌人 / 物品 / 武器？
 
@@ -115,6 +131,16 @@ Yes, I will add new maps whenever I get the chance to. The maps included have mi
 
 - xinn
 - 木木
+
+🐤🔫🚫
+
+## Contact 联系
+
+If you have any ideas/suggestions, or need any help, feel free to DM me through [Discord](https://discord.gg/F5NHUErvAz).
+
+如果你有任何想法/建议，或需要任何帮助，欢迎通过 [小红书](https://xhslink.com/m/9s6paEiFvJ6) 私信我。
+
+🐤🔫🚫
 
 > *The duck is also known as the **APEX PREDATOR**. They're cute so please don't murder them (or touch them).*
 >

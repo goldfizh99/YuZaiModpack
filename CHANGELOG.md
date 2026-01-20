@@ -1,3 +1,8 @@
+## v1.2.5
+
+- Updated `README.md`
+- Removed `APEXBanking` Map Mod due to a bug where the large coin valuable's held movement can only be seen by the host
+
 ## v1.2.4
 
 - Updated `README.md` minor wording adjustments (CN)
