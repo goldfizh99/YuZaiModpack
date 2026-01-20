@@ -1,7 +1,12 @@
+## v1.2.4
+
+- Updated `README.md` minor wording adjustments (CN)
+- Updated `manifest.json` dependency `YMC_MHZ-MoreHead-1.4.4`
+
 ## v1.2.3
 
-- Updated `README.md` about `Spawn Config`
 - Updated `README.md` ducks... 🐤
+- Updated `README.md` about `SpawnConfig`
 
 ## v1.2.2
 
@@ -14,10 +19,10 @@
 
 ## v1.2.0
 
+- Added `APEXBanking` Map Mod
 - Reworked `README.md`
+- Updated `SpawnGroups.json` to reduce the number of `spawnObjects` for each Tier 3 swarms
 - Removed `manifest.json` dependency `XiaohaiMod-XH_DamageShow_EnemyHealthBar-1.0.3`
-- Added **APEX Banking** Map
-- Reduced the number of spawns for each Tier 3 swarms
 
 ## v1.1.1
 
@@ -25,7 +30,7 @@
 
 ## v1.1.0
 
-- Added **Enemy_And_Valuable_Spawn_Manager** Mod to remove minecraft items from shop
+- Added `Enemy_And_Valuable_Spawn_Manager` Mod to remove minecraft items from shop
 - Updated `manifest.json` dependency `YMC_MHZ-MoreHead-1.4.3`
 - Reversed `manifest.json` dependency list so that it matches the table order in `README.md`
 
@@ -35,7 +40,7 @@
 
 ## v1.0.1
 
-- Updated `README.md` to include MapVote name
+- Updated `README.md` to include `MapVote` name
 - Updated `HeroHanex.NoItemSpawnLimit.cfg`
 - Updated `Jettcodey.MoreShopItems.cfg`
 
