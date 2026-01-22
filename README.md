@@ -4,6 +4,10 @@ I got bored of vanilla REPO. So I configured the enemy spawn rates (such as the 
 
 我玩腻了原版 REPO，所以调整了敌人刷新率（例如鸭子），让游戏更有趣。也加入了更多商店物品来平衡难度。玩得开心！
 
+> *In some updates I remove mods due to bugs or repeated features. To ensure you have the same mods as your friends, it is suggested to redownload the entire modpack whenever there are major/minor version changes (e.g., from 1.2 → 1.3). You don’t need to redownload for small patch updates like 1.2.1 → 1.2.2.*
+>
+> *在某些更新中，我会删除部分模组因为bug或功能重复。为了确保你和朋友的模组一致，建议在主版本／次版本更新时（例如 1.2 → 1.3）重新下载整个模组包。对于 1.2.1 → 1.2.2 这种小补丁更新，则不需要重新下载。*
+
 🐤🔫🚫
 
 ## Features 特色
@@ -21,7 +25,7 @@ Only the host needs these. They work with vanilla players (non-modded, or any pl
 - [Shared Upgrades 共享升级](https://thunderstore.io/c/repo/p/Omniscye/Empress_SharedUpgrades/)
 - [No Item Spawn Limit 取消物品生成限制](https://thunderstore.io/c/repo/p/HeroHanex/NoItemSpawnLimit/)
 - [Spawn Config 刷怪配置](https://thunderstore.io/c/repo/p/Index154/SpawnConfig/)
-- [Cart Reclaim 推车回收](https://thunderstore.io/c/repo/p/WhalesAllAround/CartReclaim/)
+- [NEW] [Come Back Equipment 装备保护](https://thunderstore.io/c/repo/p/HappyCats/ComeBackEquipment/)
 
 There will be visual desync for vanilla players when using these (or those who do not have these mods). The game is still playable.
 
@@ -41,6 +45,8 @@ These are client-side mods. Which means only you will see it (or get the effects
 
 这些是客户端模组，也就是说只有你自己能看到（或受到影响）。
 
+- [Chinese Input 中文输入](https://thunderstore.io/c/repo/p/wc/ChineseInput/)
+- [Simplified Chinese Translation 简体中文](https://thunderstore.io/c/repo/p/xiandaoll/Simplified_Chinese_Translation/)
 - [Show More Lobby Players 大厅显示更多玩家](https://thunderstore.io/c/repo/p/kr_zhou/ShowMoreLobbyPlayers/)
 - [Sorted Upgrades 升级排序](https://thunderstore.io/c/repo/p/TolgaFlashTR/SortedUpgrades/)
 - [No Damage in Shop 商店内无伤](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
@@ -60,7 +66,6 @@ These are custom map mods. Do not vote for them if you are playing with vanilla 
 
 这些是自定义地图模组。如果你正在和原版玩家或没有安装自定义地图的玩家一起玩，请不要选这些地图。这里显示的名称都来自 **地图投票** 模组列表。
 
-- [Bank 银行](https://thunderstore.io/c/repo/p/Nikki/APEXBanking/)
 - [FNAF 玩具熊的五夜后宫](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
 - [Bunker 地堡](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 - [MTHolly 蓝途王子：霍利山庄](https://thunderstore.io/c/repo/p/Arc059/BluePrince/)

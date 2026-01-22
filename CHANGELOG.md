@@ -1,3 +1,19 @@
+## v1.3.2
+
+- Updated `manifest.json` dependency `ragonClawStudios-DampMine-0.0.9`
+
+## v1.3.1
+
+- Updated `README.md`
+- Updated `manifest.json` description list order for Map Mods
+
+## v1.3.0
+
+- Added `ChineseInput` Mod
+- Added `ComeBackEquipment` Mod
+- Updated `README.md`
+- Removed `CartReclaim` Mod as the `ComeBackEquipment` Mod includes the same feature
+
 ## v1.2.5
 
 - Updated `README.md`
