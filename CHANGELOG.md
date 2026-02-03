@@ -1,6 +1,12 @@
+## v1.4.0
+
+- Added `Wesleys Manufacturer of Style` Map Mod
+- Removed `Burpleson Base Level` due to a tile where the cart has no way to travel normally
+
 ## v1.3.2
 
 - Updated `manifest.json` dependency `ragonClawStudios-DampMine-0.0.9`
+- Updated `AutoTranslatorConfig.ini` back to Chinese
 
 ## v1.3.1
 

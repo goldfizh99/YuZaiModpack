@@ -1,6 +1,6 @@
 {
     "name": "YuZaiModPack",
-    "version_number": "1.3.2",
+    "version_number": "1.4.0",
     "website_url": "https://github.com/goldfizh99/YuZaiModpack",
     "description": "A modpack for friends that includes the most popular mods, which works with vanilla players except for custom maps (read full description for more info).\n\n适合朋友一起玩的模组包，包含最常用的模组，并且能与原始玩家一起游戏（自定义地图除外，详情请阅读完整说明）。",
     "dependencies": [
@@ -12,12 +12,12 @@
         "John_Epic_Team-The_Stanley_Parable_Ultra_Deluxe_Level-1.6.4",
         "grey5525-TheFacility-1.1.3",
         "DragonClawStudios-DampMine-0.0.9",
-        "compraventa_de_facebook-Burpleson_Base_Level-2.2.1",
         "Beaniebe-Deeproot_Garden-1.1.8",
         "AriIcedT-MinecraftStrongholdLevel-1.13.1",
         "Arc059-BluePrince-1.3.2",
         "Magic_Wesley-Wesleys_Levels-1.1.11",
         "OrtonLongGaming-FNAFLevel-1.1.1",
+        "Magic_Wesley-Wesleys_Manufacturer_of_Style-1.1.0",
         "Patrick-MapVote-1.1.1",
         "Tansinator-Map_Value_Tracker-1.3.0",
         "RJs_REPO_Mods-ValuableTracker-1.0.8",

@@ -66,12 +66,12 @@ These are custom map mods. Do not vote for them if you are playing with vanilla 
 
 这些是自定义地图模组。如果你正在和原版玩家或没有安装自定义地图的玩家一起玩，请不要选这些地图。这里显示的名称都来自 **地图投票** 模组列表。
 
+- [Store 商店](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Manufacturer_of_Style/) (Crocs Store)
 - [FNAF 玩具熊的五夜后宫](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
 - [Bunker 地堡](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 - [MTHolly 蓝途王子：霍利山庄](https://thunderstore.io/c/repo/p/Arc059/BluePrince/)
 - [Stronghold 我的世界：要塞](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
 - [Garden 花园](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
-- [Military 军事基地](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/)
 - [DampMine 潮湿矿井](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/)
 - [TheFacility 研究所](https://thunderstore.io/c/repo/p/grey5525/TheFacility/)
 - [TSP 史丹利寓言：超豪华版](https://thunderstore.io/c/repo/p/John_Epic_Team/The_Stanley_Parable_Ultra_Deluxe_Level/)
